@@ -1,0 +1,22 @@
+{
+  "name": "xgfx",
+  "version": "1.0.0",
+  "description": "Javascript Bindings for libxgfx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecoder08/xgfx-js.git"
+  },
+  "author": "thecoder08",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thecoder08/xgfx-js/issues"
+  },
+  "homepage": "https://github.com/thecoder08/xgfx-js#readme",
+  "dependencies": {
+    "koffi": "^2.9.2"
+  }
+}
