@@ -1,6 +1,6 @@
 {
   "name": "xgfx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript Bindings for libxgfx",
   "main": "index.js",
   "scripts": {
