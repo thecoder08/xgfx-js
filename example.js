@@ -2,7 +2,7 @@ var xgfx = require('.');
 xgfx.initWindow(640, 480, "Testing 123");
 
 var x = 0;
-while(1) {
+while(true) {
     var event = xgfx.allocEvent();
     while(xgfx.checkWindowEvent(event) > 0) {
         if (event.type == xgfx.WINDOW_CLOSE) {
